@@ -1,3 +1,3 @@
 # Fitness Tracker
 
-[Visit the deployed app on Heroku](https://fitness-tracker-mw.herokuapp.com/)
+[Deployed App](https://fitness-tracker-mw.herokuapp.com/)
