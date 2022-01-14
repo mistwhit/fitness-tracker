@@ -1,7 +1,7 @@
 # Fitness Tracker
 
 ## Description
-This application allows users to enter workouts in order to keep track of their fitness progress. This application was created using a Monogo database, Mongoose schema, Express.js middleware, and Node.js server. Check it out at the link below!
+This application allows users to enter workouts in order to keep track of their fitness progress. This application was created using a Mongo database, Mongoose schema, Express.js middleware, and Node.js server. Check it out at the link below!
 
 [Deployed App](https://fitness-tracker-mw.herokuapp.com/)
 
